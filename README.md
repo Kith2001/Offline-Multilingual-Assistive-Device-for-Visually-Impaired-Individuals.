@@ -76,7 +76,7 @@ The system architecture is engineered for low-power edge deployment using a **Ra
 
 ---
 
-## 📊 Results and Discussion
+Results and Discussion
 
 ### A. Optical Character Recognition (OCR) Performance
 
@@ -100,21 +100,7 @@ The system architecture is engineered for low-power edge deployment using a **Ra
 * **Sinhala TTS & Transfer Learning:** Initial baseline training produced distorted audio. However, implementing transfer learning over 150 epochs showed steady loss reduction and the progressive appearance of energy bands in generated mel-spectrograms. While further epochs and larger dataset expansions will enhance production clarity, the results validate the viability of transfer learning for low-resource neural TTS systems.
 
 
-
----
-
-## 🖼️ Additional Resources
-
-* **Final Presentation Slides:** [View Project Presentation Slides Here](https://www.google.com/search?q=YOUR_PRESENTATION_LINK_HERE)
-
----
-
-> **⚠️ Intellectual Property Note:**
-> *Code is not public due to university IP constraints and institutional policy.* This repository is maintained strictly as a project showcase and portfolio piece.
-
----
-
-## 📄 References
+References
 
 1. World Health Organization, "Up to 45 million blind people globally — and growing," World Health Organization, 2003. [Online]. Available: [https://www.who.int/news/item/09-10-2003-up-to-45-million-blind-people-globally---and-growing](https://www.who.int/news/item/09-10-2003-up-to-45-million-blind-people-globally---and-growing).
 
