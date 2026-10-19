@@ -5,7 +5,7 @@
 
 ---
 
-Project Overview
+## Project Overview
 
 Visual impairment affects millions globally, limiting independence, education, and social participation. While modern assistive technologies have advanced, they frequently depend on external smart devices and continuous internet connectivity, reducing their usability in real-world settings. Furthermore, mainstream tools are heavily biased toward widely spoken languages like English, leaving regional languages without adequate alternatives.
 
@@ -13,7 +13,7 @@ This project develops an offline, portable assistive device designed to convert 
 
 ---
 
- Proposed Methodology
+ ## Proposed Methodology
 
 The architecture integrates Optical Character Recognition (OCR) to extract text from physical media with neural Text-to-Speech (TTS) models for high-fidelity audio synthesis.
 
@@ -76,7 +76,7 @@ The system architecture is engineered for low-power edge deployment using a **Ra
 
 ---
 
-Results and Discussion
+## Results and Discussion
 
 ### A. Optical Character Recognition (OCR) Performance
 
@@ -100,7 +100,7 @@ Results and Discussion
 * **Sinhala TTS & Transfer Learning:** Initial baseline training produced distorted audio. However, implementing transfer learning over 150 epochs showed steady loss reduction and the progressive appearance of energy bands in generated mel-spectrograms. While further epochs and larger dataset expansions will enhance production clarity, the results validate the viability of transfer learning for low-resource neural TTS systems.
 
 
-References
+## References
 
 1. World Health Organization, "Up to 45 million blind people globally — and growing," World Health Organization, 2003. [Online]. Available: [https://www.who.int/news/item/09-10-2003-up-to-45-million-blind-people-globally---and-growing](https://www.who.int/news/item/09-10-2003-up-to-45-million-blind-people-globally---and-growing).
 
